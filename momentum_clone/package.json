@@ -1,0 +1,19 @@
+{
+  "name": "hell",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^1.2.0",
+    "gh-pages": "^4.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://june152.github.io/momentum_clone/"
+}
