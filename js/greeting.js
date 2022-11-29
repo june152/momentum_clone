@@ -7,7 +7,7 @@ const isName = localStorage.getItem(USERNAME);
 
 function paintGreeting(name) {
   loginForm.classList.add(HIDDEN);
-  greeting.innerHTML = `Hello ${name}`;
+  greeting.innerHTML = `Hello, ${name}!`;
   greeting.classList.remove(HIDDEN);
 }
 

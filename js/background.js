@@ -4,6 +4,6 @@ let img_num = Math.floor(Math.random() * imgs.length);
 const bgImage = document.createElement("img");
 bgImage.id = "bgImage";
 
-bgImage.src = `/momentum_clone/img/${imgs[img_num]}`;
+bgImage.src = `img/${imgs[img_num]}`;
 
 document.body.appendChild(bgImage);
